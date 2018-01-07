@@ -1,0 +1,385 @@
+
+
+
+Lazy Nezumi Pro
+
+
+	Trazos perfectos en 3D y 2D con Lazy Nezumi Pro
+		https://www.youtube.com/watch?v=_vSno4ypUsM
+
+
+	Trazos perfectos en 3D y 2D con Lazy Nezumi Pro
+		https://www.youtube.com/watch?v=_vSno4ypUsM&t=30s
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Introducción:
+	_____________
+
+	_ésta herramienta nos permite mejorar los trazados realizados en Photoshop, como en cualquier aplicación sobre
+
+	la cuál, podamos crear trazos tanto orgánicos como geométricos
+
+
+	_para Photoshop, ha modo de plugins, más para otras aplicaciones de forma externa ó enmascarada
+
+
+
+	Brshes Smoothing Series:
+	________________________
+
+	_ésta serie es la serie de trazado libre a través, de la cuál, podremos expresar líneas curvas y semi curvas 
+
+	por medio de la ayuda del efecto "Lazy Mode", para que así, de ésta manera, podamos tener un trazo más estable
+
+	y estético lo cuál, es eslecialmente útil para el proceso de creación con "mouse"
+
+
+	_la serie "Smoothing", dispone de diferentes brushes, las cuáles, tienen un comportamiento y características
+
+	similares entre salvo por ciertas variaciones
+
+
+
+	
+	Brushes Constraints Series:
+	___________________________
+
+	_éste tipo de brushes, nos permitirán crear figurar y formas geométricas para diferentes procesos de producción como
+
+	orgánicos
+
+
+	_así, como también, para proyectos arquitectónicos y de perspectiva entre otras posibilidades
+
+
+	_de ésta manera, disponemos de las siguientes brushes, de tipo "Constraint", éstas son:
+
+
+
+		Constraint Concentric Slipse:
+		_____________________________
+
+		_ésta nos permitirá crear arcos y círculos de forma práctica y rápida a partir de un centro ó apicentro común
+
+
+		_de ésta manera, podremos crear diámetros a través, de un radio común
+
+		
+			Distortion Scripting:
+			_____________________
+
+			_y a través, de éstas opciones podremos ajustar éstos círculos ó arcos para poder así, convertir éstos
+
+			ha óvalos u otras formas
+
+
+		Constraint Connected Lines:
+		___________________________
+
+		_ésta nos permite generar líneas conectadas entre así, a partir de sus extremos lo cuál, es especialmente útil
+
+		para una indefinida cantidad de utilizades
+
+
+		_y para poder cambiar los puntos de orientación u origen ó puntos de partida de creación de la siguiente línea
+
+		conectada debemos de hacer uso del shortcut, "Shift"
+
+
+		_de ésta manera, podremos intercambiar entre las dos últimas posiciones del trazado generado
+
+
+
+		Constraint Fixed Angle Lines:
+		_____________________________
+
+		_ésta nos permitirá generar líneas rectas de forma paralela entre así, como también, líneas oblícuas de forma
+
+		fluida
+
+
+		_más si seguimos trazando éste comportamiento de forma contínua y libre, el sistema dejará de aplicar éte 
+
+		modo y pasará al modo libre de aplicación
+
+
+		
+		Constraint Isometric:
+		_____________________
+
+		_éste nos pemrite la creación isométrica ó en perspectiva de forma múltiple a través, de un ayudando de puntos
+
+		de fuga lo cuál, es muy útil para procesos de creación de geometría y estructuras, otros
+
+
+
+		Constraint Parallel Lines:
+		__________________________
+
+		_ésta nos pemite crear líneas paralelas entre otras de forma rápida y práctiva
+
+
+		_más también, tendremos la posibilidad de cambiar ó graduar el ángulo de paralelismo entre las líneas creadas
+
+		previamente a través, del shortcut, "Shift", para que así, podamos cambiar el ángulo de inclinación a partir
+
+		del último trazado y punto de creación
+
+
+		_lo cuál, es especialmente útil para seguir una perspectiva ó un punto de fuga específico y determinado
+
+
+
+		Constraint Perspective:
+		_______________________
+
+		_éste nos permite la proyección de línea más completa para el dibujo arquitectónico para que en su sistema
+
+		incluye ó incorpora un punto de fuga el cuál, podemos configurar por nosotros mismos
+
+
+		_es como la sumatoria de varias herramientas del mismo tipo y función similar vistas anteriormente
+
+
+
+		Constraint Radial Lines Fade In:
+		________________________________
+
+		_ésta nos pemrite crear sub-espirales ó radios con ángulos graduales a partir de un punto de determinado
+
+
+		_de ésta manera, podremos crear radiaciones de líneas entre otras posibilidades de forma geométrica para 
+
+		hacer composiciones más complejas 
+
+
+		_y para cambiar ó variar el ángulo del radio podemos hacer uso del shortcut, "Shift"
+
+
+		
+		Constraint Radial Lines:
+		________________________
+
+		_éste nos permite las mismas funciones que "Constraint Radial Lines Face In", más en el sentido contrario
+
+
+
+
+	Brushes Misc Series:
+	____________________
+
+	_ésta serie de brushes, nos permitirán crear trazos con turbulencia ó ruido emulando un trazo orgánico ó aleatorio
+
+
+	_de ésta manera, dispondremos de los siguientes tipo de brushes, de tipo Misc, los cuáles son:
+
+
+		
+		Misc Fuzzy:
+		___________
+
+		_éste nos permitirá generar un tipo de trazo quebrado y de forma libre
+
+
+		_éste puede configurarse a través, de las opciones de "Distortion Scripting"
+
+		
+		NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas
+
+
+		
+		Misc Noise:
+		___________
+
+		_éste nos permitirá generar un tipo de trazo quibrado con un ruido más acusado que el "Misc Fuzzy"
+
+		_éste puede configurarse a través, de las opciones de "Distortion Scripting"
+
+
+
+		Misc Steps:
+		___________
+
+		_éste nos permitirá generar un tipo de trazo quebrado con un ruido aún más acusado que el brush,
+
+		"Misc Noise"
+
+		
+		
+
+
+	Brush Options:
+	______________
+
+
+		Position Smoothing:
+		___________________
+
+
+			Mode:
+			_____
+
+			_en ésta opción podemos escoger entre diferentes modalidades las cuáles son:
+
+
+				Pulled String:
+				______________
+
+				_ésta presenta un comportamiento suavizado del efecto lazy mode
+
+
+				Moving Average:
+				_______________
+
+				_ésta presenta un comportamiento más suavizado del efecto lazy mode
+
+
+				_ésta opción nos permitirá elejarnos más del punto de trazado del brush, activo mientras
+
+				vamos aplicando más velocidad de forma promediada en el trazo, para que así, podamos hacer 
+
+				trazados más rectos ó lineales
+
+
+				Exponential Moving Average:
+				___________________________
+
+				_ésta presenta un comportamiento aún más suavizado del efecto lazy mode
+
+
+				_ésta opción nos permitirá elejarnos más del punto de trazado del brush, activo mientras
+
+				vamos aplicando más velocidad en el trazo, para que así, podamos hacer trazados más rectos 
+
+				ó lineales
+
+
+
+
+			Amount:
+			_______
+
+			_ésta opción nos permitirá ajutar, tanto aumentar ó disminuir el efecto lazy mode, y efecto
+
+			de delay, ó retardo de acción en las pinceladas realizadas lo que nos permitirá en menor ó
+
+			en mayor medida mortiguar el trazo libre ó irregular
+
+
+
+			Catch Up (pen only):
+			____________________
+
+			_ésta opción permite que los trazados realizados comiencen y terminen con remates orgánicos ó 
+
+			afilados con una apariencia de estar hechos ha mano alzada
+
+
+			NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas
+
+
+			
+			Guides:
+			_______
+
+
+			_ésta opción nos brinda tres controles de visualización del sistema del lazy mode, éstos son:
+
+
+				Line:
+				_____
+
+				_ésta opción nos permitirá visualizar el lazy mode, el cuál, denotará la trayectoria 
+
+				a la brush, activa
+
+		
+				Cursor:
+				_______
+
+				_éta opción nos permitirá visualizar el cursor del sistem a de lazy mode
+
+
+				Color:
+				______
+
+				_ésta opción nos permitirá visualizar el color de la línea del sistema de lazy mode
+
+
+			
+		Pressure Curve:
+		_______________
+
+		_ésta opción permite que el grosor del trazado realizado sea dinámico ó variante en relación si el trazado
+
+		es recto ó curvo
+
+
+		NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas
+
+
+		Pressure Processing:
+		____________________
+
+		_ésta opción de presión es la por defecto		
+
+
+		NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas
+
+
+
+		Pressure Speed Scaling:
+		_______________________
+
+		_ésta opción permite que el grosor del trazado realizado sea dinámico ó variante en relación a la velocidad
+
+		con la que aplique el trazado
+
+
+		NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas
+
+
+
+		Tit and Rotation Smoothing:
+		___________________________
+
+		_ésta opción permite que el grosor del trazado realizado sea dinámico ó variante en relación a la inclinación
+
+		del pencil
+
+
+		NOTA: ésta opción tiene aplicación sólo para trazados realizados con tabletas gráficas las cuáles, permiten 
+
+		capturar la inclinación del pencil
+
+
+		Distortion Scripting:
+		_____________________
+
+		_activando ésta opción prodremos acceder ha una serie de algoritmos ya precargados a través, de los cuáles
+
+		podremos crear efectos de una forma muy rápida y práctiva
+
+
+		_de ésta manera, podremos crear espirales y costuras de forma automática así, como muchas otras formas 
+
+		preconstruidas
+
+
+		Sample Interpolation:
+		_____________________
+	
+		_ésta opción permite ajustar la interpolaciónn general para la herramienta lazy mode, para todos los brushes,
+
+		ó para el brush, que esté activo
+
+	
+		
+
+
+			
+

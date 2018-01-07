@@ -1,0 +1,75 @@
+
+
+
+Lazy Nezumi Pro
+
+
+	Trazos perfectos en 3D y 2D con Lazy Nezumi Pro
+		https://www.youtube.com/watch?v=_vSno4ypUsM
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Introducción:
+	_____________
+
+	_tenemos la posibilidad de utilizar la aplicación "Lazy Nezumi Pro", con otras aplicaciones deferentes de
+
+	Photoshop
+
+
+	_así, si no disponrmos de un plugins, para otras aplicaciones deferentes a Photoshop, de la cuál, 
+
+	"Lazy Nezumi Pro", si dispone de un plugins, tenemos otras alternativas para trabajar con otras aplicaciones
+
+
+	
+	Integración:
+	____________
+
+	_de ésta manera, para integrar la aplicación "Lazy Nezumi Pro", con otras aplicaciones como After Effects, 
+
+	Blender, Zbrush, y otras, disponemos del siguiente método
+
+
+		1_primero debemos de ir a ha "Lazy Nezumi Pro/File/", y allí, seleccionar la opción de: "Hook Window",
+
+
+		2_para que así, nos aparesca un mensaje indicándonos que debemos posar el mouse, al menos tres segundos
+
+		sobre el área ó canvas de la aplicación sobre la cuál, deseamos que la aplicación "Lazy Nezumi Pro", 
+
+		tenga acción y trabaje 
+
+
+		3_para que así, a partir de los tres segundos posados sobre el área del canvas deseado la aplicación
+
+		"Lazy Nezumi Pro", nos indique a través, de un parpadeo por medio de líneas de colores sobre el área en
+
+		que ésta ha logrado una sincronización apta el trabajo entre ambas aplicaciones
+
+
+		4_para que así, posteriormente si comenzar con el proceso de pintura a través, de todas las herramientas
+
+		y brushes, disponibles dentro de la aplicación "lazy Nezumi Pro", aplicadas sobre la otra aplicación de
+
+		terceros
+
+
+
+	Relacionamiento:
+	________________
+
+	_en algunas aplicaciones en las cuáles, necesitamos interactuar sobre el canvas utilizado como por ejemplo en las
+
+	aplicaciones 3d, en las cuáles, necesitamos orbitar sobre el canvas para la reubicación de la cámara
+
+
+	_en éstos casos específicos necesitaremos apagar y prender la herramiento de "Lazy Nezumi Pro", para que así, 
+
+	puedan interacuar ambas herramientas ó aplicaciones
+
+
